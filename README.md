@@ -29,6 +29,6 @@ after u have installed g++ FOLLOW the given steps to start the game
 
         STEP 4: write the command > g++ tic_tac_toe.cpp 
          
-        STEP 6: now type command > ./a.out tic_tac_toe.cpp
+        STEP 6: now type command > ./a.out
 
 Now make sure u enjoy the game
