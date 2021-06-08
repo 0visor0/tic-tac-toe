@@ -1,13 +1,6 @@
 #include <iostream>
 using namespace std;
 
-//to create a somewhat representation of the box of tic tac toe && to add x & o's in it
-void xoinput (string pos, int xovalue) {
-
-
-
-}
-
 //tic tac toe project
 int main () {
 
