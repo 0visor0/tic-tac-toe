@@ -22,7 +22,7 @@ after u have installed g++ FOLLOW the given steps to start the game
 
         STEP 1: open terminal
 
-        STEP 2: Copy the file using command > git clone https://github.com/AbhikRed009/tic-tac-toe/
+        STEP 2: Copy the file using command > git clone https://github.com/8ByteBit/tic-tac-toe
 
         STEP 3: open the tic_tac_toe folder by typing command > cd tic_tac_toe 
                  (Make sure u r in the folder where tic_tac_toe file exists) 
