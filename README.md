@@ -23,7 +23,7 @@ Open your Linux Terminal, now follow the steps to download g++ script if not ins
 				
 	(Note: apply this step onli if g++ is not installed)
 		
-    	Step 3: Change to your Desired Directory to save the File or just stay in current Directory.
+        Step 3: Change to your Desired Directory to save the File or just stay in current Directory.
 		(To Change the directory say you want to switch it to folder called projects, type > cd /projects)
 				
 If you are using WSL then open the Downloaded Terminal and follow the following steps:
