@@ -46,7 +46,8 @@ If you are using WSL then open the Downloaded Terminal and follow the following 
 		
 Now Follow these Steps regardless of what Terminal you are using:
 
-    	STEP 1: Copy the file using command > git clone https://github.com/8ByteBit/tic-tac-toe
+    	STEP 1: Copy the file using command 
+		> git clone https://github.com/8ByteBit/tic-tac-toe
 		
 		(Note: This Step is onli to be followed if you have not Downloaded the latest version of the Game or have not yet installed it)
 
