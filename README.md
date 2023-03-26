@@ -18,7 +18,7 @@ Open your Linux Terminal, now follow the steps to download g++ script if not ins
 	Step 1: Update and Upgrade your system first, type
 		> sudo apt update && sudo apt upgrade
 
-    	STEP 2: To Download g++ script, type
+        STEP 2: To Download g++ script, type
 		> sudo apt-get install g++
 				
 	(Note: apply this step onli if g++ is not installed)
@@ -46,8 +46,8 @@ If you are using WSL then open the Downloaded Terminal and follow the following 
 		
 Now Follow these Steps regardless of what Terminal you are using:
 
-    	STEP 1: Copy the file using command 
-		> git clone https://github.com/8ByteBit/tic-tac-toe
+  	STEP 1: Copy the file using command 
+	        > git clone https://github.com/8ByteBit/tic-tac-toe
 		
 		(Note: This Step is onli to be followed if you have not Downloaded the latest version of the Game or have not yet installed it)
 
