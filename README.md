@@ -18,12 +18,12 @@ Open your Linux Terminal, now follow the steps to download g++ script if not ins
 	Step 1: Update and Upgrade your system first, type
         		> sudo apt update && sudo apt upgrade
 
- STEP 2: To Download g++ script, type
+  STEP 2: To Download g++ script, type
 		       > sudo apt-get install g++
 				
 	(Note: apply this step onli if g++ is not installed)
 		
- Step 3: Change to your Desired Directory to save the File or just stay in current Directory.
+  Step 3: Change to your Desired Directory to save the File or just stay in current Directory.
 
 		       To Change the directory say you want to switch it to folder called projects, type 
          
@@ -36,10 +36,10 @@ If you are using WSL then open the Downloaded Terminal and follow the following 
 	Step 1: Update and Upgrade your system first, type
 	        	> sudo apt update && sudo apt upgrade
 				
-	 Step 2: To Download g++ script, type
+	Step 2: To Download g++ script, type
 		       > sudo apt-get install g++
 				
-	 Step 3: Change to your Desired Directory to save the File or just stay in current Directory.
+	Step 3: Change to your Desired Directory to save the File or just stay in current Directory.
 		       To Change save the file to a Windows drive (say Drive M:) and inside folder called projects, type
 		       > mount -t drvfs M: /mnt/m
 		       > cd /mnt/m/projects
@@ -54,14 +54,14 @@ Now Follow these Steps regardless of what Terminal you are using:
 		
 		        (Note: This Step is onli to be followed if you have not Downloaded the latest version of the Game or have not yet installed it)
 
-  STEP 2: open the tic_tac_toe folder by typing command 
+   STEP 2: open the tic_tac_toe folder by typing command 
 		        > cd tic_tac_toe 
              (Make sure u r in the folder where tic_tac_toe file exists say) 
 
-  STEP 3: write the command 
+   STEP 3: write the command 
 		        > g++ tic_tac_toe.cpp -o ttt
          
-  STEP 4: now type command 
+   STEP 4: now type command 
 		        > ./ttt
         
 Remember if you stumble upon any problem there's Google for help or even better, ChatGPT.        
