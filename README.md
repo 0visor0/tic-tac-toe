@@ -18,12 +18,12 @@ Open your Linux Terminal, now follow the steps to download g++ script if not ins
 	Step 1: Update and Upgrade your system first, type
         		> sudo apt update && sudo apt upgrade
 
-      STEP 2: To Download g++ script, type
+ STEP 2: To Download g++ script, type
 		       > sudo apt-get install g++
 				
 	(Note: apply this step onli if g++ is not installed)
 		
-         Step 3: Change to your Desired Directory to save the File or just stay in current Directory.
+ Step 3: Change to your Desired Directory to save the File or just stay in current Directory.
 
 		       To Change the directory say you want to switch it to folder called projects, type 
          
