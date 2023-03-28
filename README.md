@@ -36,10 +36,10 @@ If you are using WSL then open the Downloaded Terminal and follow the following 
 	Step 1: Update and Upgrade your system first, type
 	        	> sudo apt update && sudo apt upgrade
 				
-	Step 2: To Download g++ script, type
+	 Step 2: To Download g++ script, type
 		       > sudo apt-get install g++
 				
-	Step 3: Change to your Desired Directory to save the File or just stay in current Directory.
+	 Step 3: Change to your Desired Directory to save the File or just stay in current Directory.
 		       To Change save the file to a Windows drive (say Drive M:) and inside folder called projects, type
 		       > mount -t drvfs M: /mnt/m
 		       > cd /mnt/m/projects
