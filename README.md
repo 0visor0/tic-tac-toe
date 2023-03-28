@@ -1,6 +1,6 @@
 # tic-tac-toe
 Welcome to CLI based TIC TAC TOE stimulator!!! 
-This is a CLI based TIC TAC TOE stimulator game, 
+This is TIC TAC TOE stimulator game which can be played on any terminal, 
 it will be most preferable to play it on a linux terminal 
 (because the game creator doesn't know a shit 'bout how to play it on windows or mac terminal
 so he cannot explain how to play there)
